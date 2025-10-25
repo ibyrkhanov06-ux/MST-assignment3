@@ -1,0 +1,7 @@
+graph,algo,totalCost,timeMs,operations,vertices,edges
+smallGraph1,Prim,8,0000,8,11,5,7
+smallGraph1,Kruskal,8,0000,2,33,5,7
+mediumGraph1,Prim,43,0000,0,30,12,16
+mediumGraph1,Kruskal,43,0000,0,114,12,16
+largeGraph1,Prim,104,0000,0,54,25,29
+largeGraph1,Kruskal,104,0000,0,252,25,29
