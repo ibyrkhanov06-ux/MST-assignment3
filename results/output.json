@@ -2,7 +2,7 @@
   "graphName" : "smallGraph1",
   "prim" : {
     "totalCost" : 8.0,
-    "timeMs" : 8,
+    "timeMs" : 7,
     "operations" : 11,
     "vertexCount" : 5,
     "edgeCount" : 7,
@@ -10,7 +10,7 @@
   },
   "kruskal" : {
     "totalCost" : 8.0,
-    "timeMs" : 2,
+    "timeMs" : 1,
     "operations" : 33,
     "vertexCount" : 5,
     "edgeCount" : 7,
