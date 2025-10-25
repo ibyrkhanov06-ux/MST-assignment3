@@ -63,6 +63,11 @@ It simulates optimizing a **city transportation network** by minimizing road con
 
 ## 📄 Final Report
 📘 [Download Assignment3_Report.pdf](./Assignment3_Report.pdf)
+<img width="799" height="569" alt="image" src="https://github.com/user-attachments/assets/3094a03d-1814-4919-bd3b-90b55fe1d9cb" />
+<img width="794" height="569" alt="image" src="https://github.com/user-attachments/assets/b3fe3371-623b-43f8-8371-1853523e4350" />
+
+
+
 
 ---
 
